@@ -17,7 +17,10 @@ h1, h2, h3 {
     font-family: "Merriweather", serif;
 }
 
-h1 { text-align: center; }
+h1 { 
+    text-align: center;
+    text-decoration: overline;
+}
 
 h2 + h3 { 
     font-weight: 400;
@@ -30,3 +33,10 @@ h2 {
 p {
     text-align: justify;
 }
+
+a{
+    color:#F06595;
+    font-weight: bold;
+}
+
+
